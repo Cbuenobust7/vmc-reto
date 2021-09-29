@@ -1,0 +1,5 @@
+== REPORTE DE ENTREGAS == 
+
+(-2 , 1) Orientación: Occidente
+(-3 , 1) Orientación: Norte
+(-5 , 2) Orientación: Occidente
